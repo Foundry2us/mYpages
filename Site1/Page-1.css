@@ -1,0 +1,229 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1375px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 476px;
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 23px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Playwrite AU NSW";
+  width: 627px;
+  margin: 0 auto 0 256px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 37px 244px 0 22px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 30px 0 0 513px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 15px 491px 0 22px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 48px;
+  height: 48px;
+  margin: 22px auto 0 39px;
+  padding: 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: -38px 404px 0 109px;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 48px;
+  height: 48px;
+  margin: 20px auto 0 39px;
+  padding: 0;
+}
+
+.u-section-1 .u-text-6 {
+  margin: -38px 404px 0 109px;
+}
+
+.u-section-1 .u-text-7 {
+  font-family: "Playwrite AU NSW";
+  margin: 22px 285px 0 228px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 308px;
+  height: 436px;
+  margin: 30px auto 0 102px;
+}
+
+.u-section-1 .u-group-2 {
+  width: 701px;
+  min-height: 267px;
+  height: auto;
+  margin: -420px 14px 60px auto;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 25px 30px 19px;
+}
+
+.u-section-1 .u-text-8 {
+  font-family: Poppins;
+  margin: 10px 50px 0 85px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  font-size: 1.25rem;
+  margin: 0 auto 0 287px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 66px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 313px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 313px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: 20px;
+    margin-right: 304px;
+    margin-left: 9px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-top: 20px;
+    margin-right: 304px;
+    margin-left: 9px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 185px;
+    margin-left: 128px;
+  }
+
+  .u-section-1 .u-group-2 {
+    margin-top: 20px;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 93px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 93px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 93px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 93px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 93px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 75px;
+    margin-left: 18px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 150px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 32px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
